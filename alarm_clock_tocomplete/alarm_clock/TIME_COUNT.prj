@@ -1,0 +1,2 @@
+vhdl work "p_alarm_types.vhd"
+vhdl work "time_count.vhd"
